@@ -1,1 +1,1 @@
-0x00. Webpack project
+A react project
